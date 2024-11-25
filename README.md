@@ -1,6 +1,6 @@
 <h1 align="center">Navigator Project in React.js</h1>
 
-[![Watch the video]()]()
+[![Watch the video](https://github.com/user-attachments/assets/ec8cd94d-4613-41cc-a62a-22d2f1c88a0d)](https://github.com/user-attachments/assets/ec8cd94d-4613-41cc-a62a-22d2f1c88a0d)
 
 <h3>Project Overview :- </h3>
 <p>The Employee Management System is a web application that allows users to manage employee details. It includes features like Navigate deleting employee information. This system uses React for the frontend and localStorage to store the employee data locally.
